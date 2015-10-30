@@ -1,0 +1,8 @@
+C:\Users\daniele.viti\OneDrive\Visual Studio Projects\PHJ_Installer\PHJ-Installer\Sources\bin\Binary\PHJ.exe.config
+C:\Users\daniele.viti\OneDrive\Visual Studio Projects\PHJ_Installer\PHJ-Installer\Binary\PHJ.exe.config
+C:\Users\daniele.viti\OneDrive\Visual Studio Projects\PHJ_Installer\PHJ-Installer\Binary\PHJ.exe
+C:\Users\daniele.viti\OneDrive\Visual Studio Projects\PHJ_Installer\PHJ-Installer\Sources\obj\Binary\PHJ.PHJ.resources
+C:\Users\daniele.viti\OneDrive\Visual Studio Projects\PHJ_Installer\PHJ-Installer\Sources\obj\Binary\PHJ.Properties.Resources.resources
+C:\Users\daniele.viti\OneDrive\Visual Studio Projects\PHJ_Installer\PHJ-Installer\Sources\obj\Binary\PHJ.csproj.GenerateResource.Cache
+C:\Users\daniele.viti\OneDrive\Visual Studio Projects\PHJ_Installer\PHJ-Installer\Sources\obj\Binary\PHJ.exe
+C:\Users\daniele.viti\OneDrive\Visual Studio Projects\PHJ_Installer\PHJ-Installer\Sources\obj\Binary\PHJ.csprojResolveAssemblyReference.cache

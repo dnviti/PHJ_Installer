@@ -1,0 +1,10 @@
+C:\Users\daniele.viti\OneDrive\Visual Studio Projects\PHJ_Installer\PHJ\bin\Release\PHJ.exe.config
+C:\Users\daniele.viti\OneDrive\Visual Studio Projects\PHJ_Installer\PHJ\bin\Release\PHJ.exe
+C:\Users\daniele.viti\OneDrive\Visual Studio Projects\PHJ_Installer\PHJ\bin\Release\PHJ.pdb
+C:\Users\daniele.viti\OneDrive\Visual Studio Projects\PHJ_Installer\PHJ\bin\Release\Ionic.Zip.dll
+C:\Users\daniele.viti\OneDrive\Visual Studio Projects\PHJ_Installer\PHJ\obj\Release\PHJ.PHJ.resources
+C:\Users\daniele.viti\OneDrive\Visual Studio Projects\PHJ_Installer\PHJ\obj\Release\PHJ.Properties.Resources.resources
+C:\Users\daniele.viti\OneDrive\Visual Studio Projects\PHJ_Installer\PHJ\obj\Release\PHJ.csproj.GenerateResource.Cache
+C:\Users\daniele.viti\OneDrive\Visual Studio Projects\PHJ_Installer\PHJ\obj\Release\PHJ.exe
+C:\Users\daniele.viti\OneDrive\Visual Studio Projects\PHJ_Installer\PHJ\obj\Release\PHJ.pdb
+C:\Users\daniele.viti\OneDrive\Visual Studio Projects\PHJ_Installer\PHJ\obj\Release\PHJ.csprojResolveAssemblyReference.cache
